@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/com.sun.glass.utils.NativeLibLoader/pom.xml" />
+        <option value="$PROJECT_DIR$/javax.management.loading.MLet/pom.xml" />
       </list>
     </option>
   </component>
