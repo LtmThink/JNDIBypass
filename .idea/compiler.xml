@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.sun.glass.utils.NativeLibLoader" />
         <module name="org.apache.naming.factory.BeanFactory" />
         <module name="javax.management.loading.MLet" />
+        <module name="groovy.lang.GroovyClassLoader.parseClass" />
+        <module name="com.sun.glass.utils.NativeLibLoader" />
       </profile>
     </annotationProcessing>
   </component>
