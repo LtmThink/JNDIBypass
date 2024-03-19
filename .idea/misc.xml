@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/com.sun.glass.utils.NativeLibLoader/pom.xml" />
         <option value="$PROJECT_DIR$/javax.management.loading.MLet/pom.xml" />
+        <option value="$PROJECT_DIR$/org.apache.naming.factory.BeanFactory/pom.xml" />
       </list>
     </option>
   </component>

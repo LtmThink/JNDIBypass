@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.sun.glass.utils.NativeLibLoader" />
+        <module name="org.apache.naming.factory.BeanFactory" />
         <module name="javax.management.loading.MLet" />
       </profile>
     </annotationProcessing>
