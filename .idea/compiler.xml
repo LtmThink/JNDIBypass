@@ -10,6 +10,8 @@
         <module name="javax.management.loading.MLet" />
         <module name="groovy.lang.GroovyClassLoader.parseClass" />
         <module name="com.sun.glass.utils.NativeLibLoader" />
+        <module name="org.mvel2.sh.ShellSession.exec" />
+        <module name="org.yaml.snakeyaml.Yaml" />
       </profile>
     </annotationProcessing>
   </component>

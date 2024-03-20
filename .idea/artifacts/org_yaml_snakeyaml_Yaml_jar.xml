@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="org.yaml.snakeyaml.Yaml:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/org_yaml_snakeyaml_Yaml_jar</output-path>
+    <root id="archive" name="org.yaml.snakeyaml.Yaml.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/com.sun.glass.utils.NativeLibLoader/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="org.yaml.snakeyaml.Yaml" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/9.0.8/tomcat-juli-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jsp-api/9.0.8/tomcat-jsp-api-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util-scan/9.0.8/tomcat-util-scan-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jaspic-api/9.0.8/tomcat-jaspic-api-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-annotations-api/9.0.8/tomcat-annotations-api-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/9.0.8/tomcat-coyote-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-el-api/9.0.8/tomcat-el-api-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.33/snakeyaml-1.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/9.0.8/tomcat-servlet-api-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util/9.0.8/tomcat-util-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-api/9.0.8/tomcat-api-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/9.0.8/tomcat-catalina-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jni/9.0.8/tomcat-jni-9.0.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

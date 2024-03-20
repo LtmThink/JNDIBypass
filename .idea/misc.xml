@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/javax.management.loading.MLet/pom.xml" />
         <option value="$PROJECT_DIR$/org.apache.naming.factory.BeanFactory/pom.xml" />
         <option value="$PROJECT_DIR$/groovy.lang.GroovyClassLoader.parseClass/pom.xml" />
+        <option value="$PROJECT_DIR$/com.sun.glass.utils.NativeLibLoader/org.mvel2.sh.ShellSession.exec/pom.xml" />
+        <option value="$PROJECT_DIR$/org.mvel2.sh.ShellSession.exec/pom.xml" />
+        <option value="$PROJECT_DIR$/org.yaml.snakeyaml.Yaml/pom.xml" />
       </list>
     </option>
   </component>
