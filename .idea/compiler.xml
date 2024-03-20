@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="org.apache.naming.factory.BeanFactory" />
         <module name="javax.management.loading.MLet" />
-        <module name="groovy.lang.GroovyClassLoader.parseClass" />
         <module name="com.sun.glass.utils.NativeLibLoader" />
+        <module name="groovy.lang.GroovyClassLoader.parseClass" />
+        <module name="com.thoughtworks.xstream.XStream.fromXML" />
         <module name="org.mvel2.sh.ShellSession.exec" />
+        <module name="ByUnserialize" />
         <module name="org.yaml.snakeyaml.Yaml" />
       </profile>
     </annotationProcessing>

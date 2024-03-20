@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/com.sun.glass.utils.NativeLibLoader/org.mvel2.sh.ShellSession.exec/pom.xml" />
         <option value="$PROJECT_DIR$/org.mvel2.sh.ShellSession.exec/pom.xml" />
         <option value="$PROJECT_DIR$/org.yaml.snakeyaml.Yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/com.thoughtworks.xstream.XStream.fromXML/pom.xml" />
+        <option value="$PROJECT_DIR$/ByUnserialize/pom.xml" />
       </list>
     </option>
   </component>
