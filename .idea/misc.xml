@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/org.yaml.snakeyaml.Yaml/pom.xml" />
         <option value="$PROJECT_DIR$/com.thoughtworks.xstream.XStream.fromXML/pom.xml" />
         <option value="$PROJECT_DIR$/ByUnserialize/pom.xml" />
+        <option value="$PROJECT_DIR$/org.apache.catalina.users.MemoryUserDatabaseFactory/pom.xml" />
       </list>
     </option>
   </component>

@@ -9,6 +9,8 @@
     <file url="file://$PROJECT_DIR$/groovy.lang.GroovyClassLoader.parseClass/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/javax.management.loading.MLet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/javax.management.loading.MLet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.apache.catalina.users.MemoryUserDatabaseFactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.apache.catalina.users.MemoryUserDatabaseFactory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/org.apache.naming.factory.BeanFactory/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/org.apache.naming.factory.BeanFactory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/org.mvel2.sh.ShellSession.exec/src/main/java" charset="UTF-8" />

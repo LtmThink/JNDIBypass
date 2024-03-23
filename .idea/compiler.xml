@@ -9,6 +9,7 @@
         <module name="org.apache.naming.factory.BeanFactory" />
         <module name="javax.management.loading.MLet" />
         <module name="com.sun.glass.utils.NativeLibLoader" />
+        <module name="org.apache.catalina.users.MemoryUserDatabaseFactory" />
         <module name="groovy.lang.GroovyClassLoader.parseClass" />
         <module name="com.thoughtworks.xstream.XStream.fromXML" />
         <module name="org.mvel2.sh.ShellSession.exec" />
